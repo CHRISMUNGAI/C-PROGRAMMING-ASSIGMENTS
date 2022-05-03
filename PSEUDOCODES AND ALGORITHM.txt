@@ -1,0 +1,60 @@
+AREA OF A CIRCLE
+ALGORITHM
+1 START
+2 Print "Circle radius"
+3 Wait for the user to input data
+4 Verify the radius
+5 Calculate area using  formula πr^2,where "r" is the radius
+6 Print "Area of the circle"
+7 STOP
+
+PSEUDOCODE
+1 START
+2 r,Area
+3 INPUT r
+4 Area=3.142*r*r
+5 OUTPUT Area
+6 STOP
+
+
+AREA AND PERIMETER OF A RECTANGLE
+ALGORITHM 
+1 START
+2 Read l,w,Area,Perimeter
+3 Print "enter the length of the rectangle (l)"
+4 Wait for the user to input data
+5 Verify the l
+6 Print "enter the width of the rectangle (w)"
+7 Verify the w
+8 Calculate area using the formula l*w
+9 Calculate Perimeter using 2*(l*w)
+10 Print "Area of the rectangle"
+11 Print "Perimeter of the rectangle"
+12 STOP
+
+PSEUDOCODE
+1 START
+2 Read l,w,Area,Perimeter
+3 INPUT l,w
+4 Area=l*w
+5 Perimeter=2*(l*w)
+6 OUTPUT Area, Perimeter
+7 STOP
+
+VOLUME OF A SPHERE
+ALGORITHM
+1 START
+2 Print "sphere radius" 
+3 Wait for user to input data
+4 Verify the radius  
+5 Calculate volume of sphere using the formula 4/3*3.142*r*r*r. where "r" is the radius of the sphere
+6 print volume of "sphere" 
+7 STOP
+
+PSEUDOCODE
+1 START
+2 Read r,volume
+3 INPUT r
+4 Volume=4/3*r*r*r
+5 OUTPUT Volume
+6 STOP
